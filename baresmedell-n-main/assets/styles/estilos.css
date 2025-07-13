@@ -1,0 +1,30 @@
+/* .carousel{
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+} */
+
+.banner1{
+    background-image: url("../img/b.RPrp.jpg");
+    background-position: top center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    padding: 10%;
+}
+
+.banner2{
+    background-image: url("../img/banner.REmple.jpg");
+    background-position: top center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    padding: 10%; 
+}
+
+.banner3{
+    background-image: url("../img/bgr.avif");
+    background-position: top center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    padding: 10%;
+}
