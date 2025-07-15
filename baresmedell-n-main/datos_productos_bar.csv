@@ -1,0 +1,501 @@
+Nombre del producto,Precio (COP),Unidades vendidas,Día de mayor venta
+Alitas BBQ,32785,70,Lunes
+Gaseosa,20922,43,Lunes
+Chorizo,26239,36,Miércoles
+Piña colada,29833,27,Jueves
+Cerveza,13411,75,Jueves
+Ron Medellín,39032,45,Sábado
+Vodka,7227,66,Domingo
+Cóctel Margarita,30268,43,Jueves
+Nachos,46358,18,Viernes
+Gaseosa,14751,75,Viernes
+Ron Medellín,42011,15,Sábado
+Tequila,31938,91,Martes
+Papas fritas,37780,65,Domingo
+Tequila,30966,5,Viernes
+Agua,29308,39,Miércoles
+Vodka,38066,34,Lunes
+Cóctel Margarita,35855,59,Martes
+Alitas BBQ,22669,47,Jueves
+Mini pizza,29230,98,Lunes
+Arepa rellena,14609,89,Miércoles
+Chorizo,41541,28,Lunes
+Arepa rellena,24768,35,Martes
+Whisky,7443,57,Jueves
+Michelada,21920,72,Viernes
+Whisky,34386,19,Lunes
+Tequila,31659,39,Viernes
+Piña colada,26411,31,Martes
+Empanada,15513,90,Jueves
+Michelada,43187,33,Domingo
+Gaseosa,36980,96,Jueves
+Tequila,22749,15,Miércoles
+Gaseosa,34928,62,Martes
+Jugo natural,32294,31,Domingo
+Vodka,28902,82,Domingo
+Ron Medellín,48711,80,Miércoles
+Empanada,42105,69,Lunes
+Ron Medellín,17698,100,Miércoles
+Papas fritas,43168,32,Viernes
+Vodka,7715,40,Jueves
+Gaseosa,34718,85,Jueves
+Agua,7153,93,Jueves
+Michelada,32516,53,Jueves
+Whisky,34147,40,Miércoles
+Vodka,15592,43,Domingo
+Papas fritas,23628,31,Viernes
+Empanada,43574,64,Jueves
+Gaseosa,26401,32,Jueves
+Gaseosa,34653,8,Lunes
+Hamburguesa,27521,19,Domingo
+Cóctel Margarita,42233,58,Martes
+Michelada,11063,25,Martes
+Ron Medellín,30814,62,Sábado
+Mini pizza,42217,9,Domingo
+Cerveza,33972,100,Martes
+Michelada,17990,21,Domingo
+Chorizo,19027,99,Domingo
+Michelada,44132,18,Martes
+Gaseosa,41884,66,Viernes
+Vodka,20358,9,Jueves
+Nachos,26688,80,Lunes
+Jugo natural,15488,98,Jueves
+Ron Medellín,36503,29,Sábado
+Cóctel Margarita,29066,86,Sábado
+Jugo natural,43603,52,Sábado
+Alitas BBQ,45637,46,Sábado
+Piña colada,35471,38,Lunes
+Ron Medellín,45294,73,Lunes
+Empanada,37725,31,Martes
+Chorizo,33198,42,Jueves
+Gaseosa,27346,14,Lunes
+Gaseosa,28178,49,Domingo
+Alitas BBQ,19799,50,Domingo
+Ron Medellín,42224,56,Martes
+Ron Medellín,34051,8,Viernes
+Nachos,19762,27,Miércoles
+Agua,42555,30,Sábado
+Nachos,33776,56,Domingo
+Mojito,24195,66,Lunes
+Tequila,29816,95,Lunes
+Cerveza,49665,38,Miércoles
+Mojito,41823,42,Sábado
+Papas fritas,22891,33,Viernes
+Jugo natural,49673,81,Viernes
+Empanada,36400,11,Lunes
+Cerveza,24737,92,Miércoles
+Piña colada,20446,77,Viernes
+Vodka,48610,98,Lunes
+Arepa rellena,29275,31,Lunes
+Cerveza,9138,8,Sábado
+Cerveza,25833,62,Jueves
+Empanada,36857,99,Domingo
+Papas fritas,26273,15,Domingo
+Vodka,17392,93,Sábado
+Agua,21096,53,Domingo
+Chorizo,29566,63,Martes
+Michelada,6524,29,Jueves
+Arepa rellena,19822,98,Lunes
+Mojito,29620,38,Miércoles
+Piña colada,21358,45,Sábado
+Papas fritas,20832,99,Miércoles
+Papas fritas,11987,24,Domingo
+Empanada,25494,93,Viernes
+Cóctel Margarita,9000,53,Miércoles
+Agua,32540,97,Sábado
+Papas fritas,29837,100,Viernes
+Arepa rellena,12434,42,Sábado
+Vodka,8994,79,Lunes
+Mojito,8692,27,Martes
+Mojito,27698,46,Lunes
+Empanada,42584,87,Lunes
+Whisky,46431,68,Domingo
+Gaseosa,19127,62,Viernes
+Empanada,40944,61,Domingo
+Empanada,8094,72,Sábado
+Agua,26838,66,Miércoles
+Nachos,34238,16,Domingo
+Hamburguesa,48973,73,Sábado
+Alitas BBQ,29973,36,Martes
+Chorizo,12825,89,Miércoles
+Mojito,46204,14,Sábado
+Chorizo,43723,25,Martes
+Hamburguesa,14851,30,Viernes
+Papas fritas,22863,100,Viernes
+Gaseosa,43163,86,Viernes
+Cerveza,44627,12,Martes
+Piña colada,48799,59,Lunes
+Arepa rellena,13742,98,Martes
+Mini pizza,47395,30,Viernes
+Papas fritas,6356,11,Domingo
+Nachos,32241,23,Domingo
+Hamburguesa,44704,28,Sábado
+Gaseosa,10123,78,Miércoles
+Cóctel Margarita,13073,26,Martes
+Empanada,35282,68,Sábado
+Hamburguesa,27707,26,Miércoles
+Papas fritas,10031,53,Viernes
+Jugo natural,9161,86,Viernes
+Michelada,5826,28,Lunes
+Ron Medellín,45110,24,Domingo
+Whisky,29654,84,Viernes
+Papas fritas,37250,26,Lunes
+Nachos,19069,81,Martes
+Mini pizza,45555,22,Martes
+Mojito,39213,72,Domingo
+Mini pizza,42514,38,Viernes
+Whisky,18873,67,Domingo
+Cóctel Margarita,26307,19,Martes
+Empanada,38530,55,Viernes
+Agua,13220,83,Viernes
+Empanada,18758,8,Domingo
+Nachos,15259,22,Lunes
+Michelada,39488,64,Jueves
+Papas fritas,23090,54,Sábado
+Agua,35731,51,Lunes
+Mojito,8090,16,Lunes
+Michelada,18119,21,Lunes
+Agua,42709,86,Sábado
+Papas fritas,23641,13,Sábado
+Ron Medellín,8193,86,Miércoles
+Tequila,20166,66,Sábado
+Michelada,39561,15,Jueves
+Mini pizza,25067,95,Jueves
+Arepa rellena,39119,83,Sábado
+Papas fritas,17224,39,Domingo
+Hamburguesa,10296,5,Lunes
+Cóctel Margarita,37900,80,Lunes
+Vodka,49172,43,Martes
+Ron Medellín,8494,32,Martes
+Cerveza,9754,23,Martes
+Hamburguesa,31360,50,Jueves
+Nachos,45573,28,Lunes
+Cerveza,16410,81,Sábado
+Mojito,41304,57,Lunes
+Chorizo,32255,94,Sábado
+Michelada,19631,52,Sábado
+Chorizo,14077,41,Jueves
+Michelada,33065,15,Jueves
+Mini pizza,31802,48,Domingo
+Piña colada,31850,69,Lunes
+Mojito,22859,57,Martes
+Cóctel Margarita,45361,55,Martes
+Empanada,10607,33,Viernes
+Agua,20624,9,Lunes
+Mini pizza,24021,24,Viernes
+Mojito,38385,83,Miércoles
+Gaseosa,45123,17,Miércoles
+Whisky,28009,58,Domingo
+Michelada,21544,93,Lunes
+Piña colada,21287,53,Jueves
+Alitas BBQ,38903,14,Viernes
+Jugo natural,5172,85,Sábado
+Vodka,46077,67,Miércoles
+Cerveza,32960,70,Lunes
+Papas fritas,37654,5,Lunes
+Cerveza,25566,8,Viernes
+Piña colada,42939,32,Jueves
+Michelada,9166,29,Lunes
+Papas fritas,33394,53,Martes
+Mini pizza,14733,38,Martes
+Gaseosa,7492,95,Martes
+Gaseosa,13570,45,Lunes
+Vodka,46546,70,Lunes
+Mini pizza,10080,29,Miércoles
+Mojito,12613,75,Lunes
+Piña colada,37869,29,Miércoles
+Chorizo,14105,96,Sábado
+Mojito,34889,30,Viernes
+Vodka,13644,84,Lunes
+Alitas BBQ,43027,15,Domingo
+Empanada,36835,39,Martes
+Mojito,15001,25,Lunes
+Jugo natural,26815,36,Sábado
+Papas fritas,20393,70,Jueves
+Vodka,39804,51,Lunes
+Michelada,47264,69,Martes
+Papas fritas,25459,7,Lunes
+Jugo natural,24717,46,Viernes
+Piña colada,36764,42,Martes
+Empanada,11694,87,Jueves
+Jugo natural,15538,70,Domingo
+Piña colada,44441,80,Martes
+Hamburguesa,18234,85,Viernes
+Empanada,38272,70,Lunes
+Cóctel Margarita,14462,14,Sábado
+Gaseosa,45622,24,Jueves
+Nachos,49687,58,Martes
+Agua,11003,76,Viernes
+Michelada,34431,84,Viernes
+Whisky,41475,41,Sábado
+Michelada,38064,29,Lunes
+Whisky,20638,98,Sábado
+Jugo natural,32371,85,Miércoles
+Whisky,36140,27,Martes
+Chorizo,41694,44,Jueves
+Michelada,38477,21,Jueves
+Ron Medellín,12870,56,Sábado
+Tequila,24018,43,Lunes
+Chorizo,47100,97,Lunes
+Mini pizza,10824,23,Miércoles
+Chorizo,8814,93,Sábado
+Cerveza,39802,37,Viernes
+Hamburguesa,16972,66,Domingo
+Jugo natural,31019,57,Lunes
+Gaseosa,5260,58,Viernes
+Nachos,45500,35,Jueves
+Mojito,47941,56,Lunes
+Gaseosa,47184,83,Martes
+Papas fritas,16538,95,Domingo
+Papas fritas,19175,74,Martes
+Papas fritas,17621,90,Jueves
+Gaseosa,27917,78,Jueves
+Papas fritas,32522,83,Domingo
+Mojito,40875,14,Lunes
+Hamburguesa,7250,85,Domingo
+Gaseosa,25741,43,Domingo
+Alitas BBQ,8053,77,Sábado
+Michelada,41444,72,Lunes
+Papas fritas,12808,19,Domingo
+Hamburguesa,35243,9,Martes
+Tequila,6185,66,Domingo
+Arepa rellena,16607,68,Viernes
+Papas fritas,45710,32,Sábado
+Mini pizza,12590,78,Sábado
+Michelada,19771,72,Sábado
+Empanada,40682,90,Miércoles
+Piña colada,22081,49,Domingo
+Vodka,15827,41,Martes
+Cóctel Margarita,20714,74,Miércoles
+Cóctel Margarita,30193,5,Lunes
+Ron Medellín,22594,72,Martes
+Chorizo,40704,47,Lunes
+Alitas BBQ,13066,96,Martes
+Mojito,20261,62,Viernes
+Arepa rellena,24878,53,Jueves
+Hamburguesa,48372,86,Lunes
+Nachos,14891,87,Sábado
+Whisky,16890,64,Lunes
+Whisky,44827,5,Martes
+Ron Medellín,25389,42,Sábado
+Ron Medellín,39354,40,Jueves
+Empanada,34996,7,Martes
+Vodka,25168,58,Sábado
+Chorizo,30140,21,Miércoles
+Nachos,25709,26,Martes
+Hamburguesa,24708,57,Lunes
+Chorizo,36351,71,Miércoles
+Piña colada,5952,74,Domingo
+Piña colada,14565,100,Lunes
+Michelada,43473,93,Miércoles
+Cerveza,13576,86,Jueves
+Michelada,22337,26,Lunes
+Chorizo,30897,27,Jueves
+Gaseosa,34415,46,Jueves
+Ron Medellín,27055,24,Viernes
+Agua,44122,93,Sábado
+Whisky,43275,17,Domingo
+Nachos,6657,6,Domingo
+Papas fritas,42842,95,Domingo
+Jugo natural,13942,66,Lunes
+Empanada,5293,35,Jueves
+Tequila,18234,72,Domingo
+Cerveza,13766,98,Martes
+Agua,25130,38,Domingo
+Mojito,40423,38,Miércoles
+Nachos,35188,86,Sábado
+Empanada,40539,52,Domingo
+Jugo natural,9488,24,Lunes
+Alitas BBQ,12616,94,Jueves
+Agua,28163,79,Jueves
+Cóctel Margarita,37512,51,Lunes
+Cóctel Margarita,33584,24,Viernes
+Papas fritas,30349,42,Jueves
+Papas fritas,10440,59,Domingo
+Agua,48780,94,Domingo
+Arepa rellena,26080,62,Miércoles
+Hamburguesa,39610,26,Miércoles
+Chorizo,8775,12,Lunes
+Jugo natural,39418,53,Viernes
+Piña colada,41523,44,Lunes
+Jugo natural,9301,27,Jueves
+Agua,25049,65,Sábado
+Jugo natural,15470,97,Sábado
+Michelada,12155,17,Lunes
+Michelada,34513,62,Domingo
+Piña colada,27123,50,Lunes
+Hamburguesa,17950,67,Domingo
+Whisky,15348,71,Lunes
+Cóctel Margarita,42650,42,Martes
+Michelada,42717,68,Viernes
+Empanada,35425,20,Viernes
+Hamburguesa,23379,26,Domingo
+Jugo natural,37565,85,Lunes
+Cerveza,43860,49,Lunes
+Cerveza,34845,25,Viernes
+Michelada,18757,68,Viernes
+Alitas BBQ,11384,67,Viernes
+Arepa rellena,16640,36,Martes
+Cóctel Margarita,41294,91,Viernes
+Cerveza,33680,50,Jueves
+Jugo natural,21597,27,Viernes
+Papas fritas,17077,28,Domingo
+Alitas BBQ,32469,90,Domingo
+Gaseosa,26718,14,Viernes
+Jugo natural,47157,83,Jueves
+Hamburguesa,7681,38,Jueves
+Whisky,48947,98,Domingo
+Alitas BBQ,41316,61,Lunes
+Piña colada,16314,56,Sábado
+Papas fritas,30367,47,Sábado
+Agua,44570,58,Domingo
+Jugo natural,43295,85,Miércoles
+Vodka,33176,66,Miércoles
+Empanada,26820,52,Martes
+Cerveza,23080,32,Sábado
+Papas fritas,17799,21,Lunes
+Papas fritas,11207,62,Lunes
+Tequila,43758,54,Viernes
+Mini pizza,39270,96,Domingo
+Cerveza,16586,15,Martes
+Agua,7051,86,Miércoles
+Nachos,42519,22,Viernes
+Vodka,41425,91,Sábado
+Arepa rellena,44047,85,Lunes
+Nachos,36682,38,Lunes
+Cóctel Margarita,25875,65,Miércoles
+Michelada,30841,87,Jueves
+Agua,9756,94,Viernes
+Cerveza,16956,86,Domingo
+Michelada,38760,77,Viernes
+Whisky,5902,44,Domingo
+Cóctel Margarita,40619,54,Domingo
+Hamburguesa,33301,72,Domingo
+Empanada,44789,93,Lunes
+Empanada,27684,22,Jueves
+Jugo natural,19538,25,Viernes
+Papas fritas,21970,78,Viernes
+Mini pizza,43481,73,Lunes
+Alitas BBQ,45902,41,Lunes
+Gaseosa,7345,74,Viernes
+Chorizo,18733,83,Miércoles
+Michelada,40147,69,Viernes
+Piña colada,37246,11,Lunes
+Mojito,48298,13,Sábado
+Empanada,40829,12,Domingo
+Mini pizza,38953,13,Martes
+Papas fritas,7557,41,Jueves
+Vodka,5109,66,Lunes
+Chorizo,27413,24,Sábado
+Michelada,43960,54,Martes
+Michelada,34724,100,Martes
+Whisky,22543,68,Lunes
+Mini pizza,32857,89,Sábado
+Chorizo,36495,36,Viernes
+Cóctel Margarita,7448,57,Sábado
+Arepa rellena,6715,7,Sábado
+Chorizo,34006,38,Jueves
+Alitas BBQ,39152,94,Martes
+Michelada,43020,84,Jueves
+Michelada,32192,56,Miércoles
+Nachos,23400,86,Martes
+Piña colada,12098,22,Sábado
+Cóctel Margarita,10074,63,Sábado
+Vodka,29308,65,Lunes
+Arepa rellena,33619,17,Domingo
+Gaseosa,24209,10,Viernes
+Gaseosa,36186,72,Martes
+Tequila,6606,95,Lunes
+Whisky,7967,56,Lunes
+Mojito,30787,36,Sábado
+Tequila,35037,72,Martes
+Cóctel Margarita,36401,37,Martes
+Michelada,38910,39,Martes
+Tequila,5400,72,Lunes
+Agua,9160,12,Martes
+Hamburguesa,35626,98,Miércoles
+Tequila,11656,8,Miércoles
+Nachos,32711,63,Miércoles
+Vodka,27336,7,Domingo
+Gaseosa,29504,31,Lunes
+Hamburguesa,36127,78,Viernes
+Gaseosa,21157,10,Domingo
+Alitas BBQ,40767,16,Viernes
+Nachos,36537,79,Viernes
+Alitas BBQ,43871,48,Lunes
+Hamburguesa,46541,8,Lunes
+Empanada,10006,94,Domingo
+Cóctel Margarita,7621,98,Jueves
+Michelada,8041,58,Sábado
+Jugo natural,13339,66,Sábado
+Papas fritas,20149,88,Domingo
+Whisky,17037,22,Martes
+Empanada,43356,23,Sábado
+Tequila,38190,74,Viernes
+Mini pizza,18105,72,Martes
+Hamburguesa,30306,67,Martes
+Tequila,49810,63,Domingo
+Agua,31819,38,Lunes
+Arepa rellena,16917,77,Domingo
+Hamburguesa,7445,28,Sábado
+Agua,49457,27,Domingo
+Mojito,24643,77,Viernes
+Nachos,25345,50,Viernes
+Hamburguesa,38546,84,Martes
+Chorizo,21776,57,Jueves
+Michelada,34766,65,Martes
+Gaseosa,16470,49,Lunes
+Chorizo,41918,58,Miércoles
+Chorizo,36619,91,Miércoles
+Arepa rellena,27051,100,Viernes
+Alitas BBQ,36992,55,Lunes
+Empanada,48991,96,Miércoles
+Alitas BBQ,30291,58,Martes
+Vodka,8664,50,Jueves
+Ron Medellín,32788,54,Martes
+Arepa rellena,20557,100,Lunes
+Ron Medellín,7425,31,Jueves
+Alitas BBQ,15491,56,Martes
+Cerveza,26832,9,Sábado
+Empanada,44926,63,Domingo
+Nachos,29787,24,Miércoles
+Mojito,8262,8,Martes
+Empanada,31659,56,Domingo
+Vodka,17691,61,Jueves
+Cerveza,13307,100,Miércoles
+Hamburguesa,41146,14,Martes
+Whisky,7949,98,Viernes
+Empanada,45474,96,Miércoles
+Mojito,38720,56,Viernes
+Papas fritas,22342,47,Lunes
+Cerveza,43052,55,Martes
+Whisky,43256,93,Miércoles
+Ron Medellín,36710,83,Sábado
+Mini pizza,5379,95,Martes
+Vodka,32905,34,Martes
+Tequila,49715,10,Sábado
+Hamburguesa,30407,67,Martes
+Gaseosa,11162,83,Sábado
+Alitas BBQ,11768,72,Lunes
+Cóctel Margarita,18558,98,Viernes
+Arepa rellena,38215,34,Miércoles
+Tequila,36090,53,Lunes
+Arepa rellena,46059,84,Domingo
+Mojito,14640,85,Martes
+Empanada,49339,16,Domingo
+Whisky,20145,81,Miércoles
+Chorizo,37829,19,Domingo
+Papas fritas,7941,97,Viernes
+Empanada,9265,54,Viernes
+Ron Medellín,36748,69,Lunes
+Cerveza,10876,50,Sábado
+Michelada,32693,98,Domingo
+Jugo natural,17555,27,Viernes
+Mojito,18143,97,Miércoles
+Michelada,18692,68,Miércoles
+Jugo natural,31038,47,Martes
+Cerveza,18135,20,Miércoles
+Nachos,12352,97,Lunes
+Jugo natural,8861,49,Sábado
+Arepa rellena,43804,61,Miércoles
+Tequila,6492,64,Lunes
