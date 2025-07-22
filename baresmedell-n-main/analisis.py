@@ -15,5 +15,5 @@ print(empladosExperienciaDiez.head(5))
 empleados180=datosEmpleados.query("`Horas laboradas/mes`>180")
 print(empleados180.head(5))
 #Empleados cuyo cargo es un Bartender
-#bartenders=datosEmpleados.query("`Cargo en el bar`==`Bartender`")
-#print(bartenders)
+bartenders=datosEmpleados.query("`Cargo en el bar`=='Bartender'")
+print(bartenders.head(5))
