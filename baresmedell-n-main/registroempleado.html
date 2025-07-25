@@ -1,111 +1,110 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registro de empleados</title>
+    <title>Registro de productos</title>
     <link rel="stylesheet" href="./assets/styles/estilos.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <style>
+        body {
+            background: linear-gradient(120deg, #fff6fa40 60%, #f073b822 100%), url('./assets/img/banner.REmple.jpg') center/cover no-repeat;
+            min-height: 100vh;
+        }
+    </style>
 </head>
 <body>
-
-     <nav class="navbar navbar-expand-lg" style="background-color: #f073b8;">
+    <nav class="navbar navbar-expand-lg" style="background-color: #f073b8;">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Formulario del empleado</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <a class="navbar-brand fw-bold" href="index.html" style="color: #fff;">Formulario de producto</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="dashboard.html">Dashboard</a>
-                </li>
-                <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Registros
-                </a>
-                <ul class="dropdown-menu bg-emphasis">
-                    <li><a class="dropdown-item" href="registroempleado.html">Registro empleado</a></li>
-                    <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="registroproducto.html">Registro producto</a></li>
-                    
-                
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link active" href="index.html">Inicio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="dashboard.html">Dashboard</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Registros</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="registroempleado.html">Registro empleado</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="registroproducto.html">Registro producto</a></li>
+                        </ul>
+                    </li>
                 </ul>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-                </li>
-            </ul>
-            <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"/>
-                <button class="btn btn-outline-dark" type="submit">Buscar</button>
-            </form>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar"/>
+                    <button class="btn btn-outline-dark" type="submit">Buscar</button>
+                </form>
             </div>
         </div>
     </nav>
-    <section class="banner2">
+
     <section class="container my-5">
-       <div class="row justify-content-center">
-        <div class="col-12 col-md-10">
-            <form class="border rounded p-5 shadow">
-
-                <div class="input-group mb-5 input-group-lg" >
-                    <span class="input-group-text" style="background-color: rgb(255, 135, 201);" >
-                    <i class="bi bi-person-circle"></i>
-                    </span>
-                    <input type="text" class="form-control" placeholder="Nombres Empleado" id="nombres">
-                  </div>
-                  <div class="input-group mb-5 input-group-lg">
-                    <span class="input-group-text" style="background-color: rgb(255, 135, 201);" >
-                        <i class="bi bi-cash-coin"></i>
-                    </span>
-                    <input type="text" class="form-control" placeholder="Salario Promedio" id="salario">
-                  </div>
-                  <div class="input-group mb-5 input-group-lg">
-                    <span class="input-group-text" style="background-color: rgb(255, 135, 201);" >
-                        <i class="bi bi-clock"></i>
-                    </span>
-                    <input type="text" class="form-control" placeholder="Horas Promedio" id="horas" >
-                  </div>
-                  <div class="input-group mb-5 input-group-lg">
-                    <span class="input-group-text" style="background-color: rgb(255, 135, 201);" >
-                    <i class="bi bi-person-lines-fill"></i>
-                    </span>
-                    <input type="text" class="form-control" placeholder="Cargo" id="cargo">
-                  </div>
-                  <div class="input-group mb-5 input-group-lg">
-                    <span class="input-group-text" style="background-color: rgb(255, 135, 201);" >
-                    <i class="bi bi-check-circle"></i>
-                    </span>
-                    <input type="text" class="form-control" placeholder="Experiencia" id="experiencia">
-                  </div>
-
-              <button class="btn btn-outline-dark btn-lg" type="button" id="boton" style="background-color: #f073b8;">Enviar</button>
-            </form>
-        </div>
-       </div>
-    </section>
-    </section>
-
-    <section class="container my-5 text-center"style="background-color: #f073b8;">
-        <div class="row">
-            <div class="col-12"  >
-                <p class="fst-italic"> Programado por Yesica López <br>
-                Medellín <br>
-                2025 <br>
-                ©</p>
-               
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 col-lg-8">
+                    <div class="card-body p-5">
+                        <h2 class="mb-4 text-center" style="color:#070607;">Registro de Empleado</h2>
+                        <form>
+                            <div class="input-group mb-4 input-group-lg">
+                            <span class="input-group-text" style="background-color: #f073b8; color: #f3f0f0;">
+                                <i class="bi bi-person-circle"></i>
+                            </span>
+                            <input type="text" class="form-control" placeholder="Nombres Empleado" id="nombres" required>
+                        </div>
+                        <div class="input-group mb-4 input-group-lg">
+                            <span class="input-group-text" style="background-color: #f073b8; color: #fff;">
+                                <i class="bi bi-cash-coin"></i>
+                            </span>
+                            <input type="number" class="form-control" placeholder="Salario Promedio" id="salario" min="0" required>
+                        </div>
+                        <div class="input-group mb-4 input-group-lg">
+                            <span class="input-group-text" style="background-color: #f073b8; color: #fff;">
+                                <i class="bi bi-clock"></i>
+                            </span>
+                            <input type="number" class="form-control" placeholder="Horas Promedio" id="horas" min="0" required>
+                        </div>
+                        <div class="input-group mb-4 input-group-lg">
+                            <span class="input-group-text" style="background-color: #f073b8; color: #fff;">
+                                <i class="bi bi-person-lines-fill"></i>
+                            </span>
+                            <input type="text" class="form-control" placeholder="Cargo" id="cargo" required>
+                        </div>
+                        <div class="input-group mb-4 input-group-lg">
+                            <span class="input-group-text" style="background-color: #f073b8; color: #fff;">
+                                <i class="bi bi-check-circle"></i>
+                            </span>
+                            <input type="text" class="form-control" placeholder="Experiencia" id="experiencia" required>
+                        </div>
+                        <div class="d-grid">
+                            <button class="btn btn-lg fw-bold" type="button" id="boton" style="background-color: #f073b8; color: #fff;">Enviar</button>
+                        </div>
+                        </form>
+                    </div>
             </div>
         </div>
     </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-    <script src="./controllers/controlador.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <footer class="container-fluid mt-5 p-0" style="border-radius: 1rem; overflow: hidden;">
+        <div style="
+            background: url('./assets/img/footer_empleado.jpg') center/cover no-repeat;
+            min-height: 180px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        ">
+            <div class="w-100 text-center">
+                <p class="fst-italic text-white mb-0 py-4" style="font-size: 1.2rem;">
+                    <p class="mb-0 text-white">Programado por Yesica López | Medellín | 2025 ©</p>
+                </p>
+            </div>
+        </div>
+    </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="controllers/controlador.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>

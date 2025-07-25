@@ -28,3 +28,8 @@
     /* background-attachment: fixed; */
     padding: 10%;
 }
+.fondo-empleado {
+    background: linear-gradient(120deg, #fff6fa85 60%, #f073b80c 100%), url('../img/banner.REmple.jpg') center/cover no-repeat;
+    border-radius: 1rem;
+    padding: 2rem;
+}
